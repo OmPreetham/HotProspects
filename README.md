@@ -25,7 +25,7 @@ HotProspects is a SwiftUI application that helps users manage their professional
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hotprospects.git
+   git clone https://github.com/OmPreetham/hotprospects.git
    ```
 2. Open the project in Xcode:
    ```sh
